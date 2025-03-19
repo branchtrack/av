@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.9.2
+  Update development dependencies
+
 ## 0.9.1
   Replace Cocaine with Terrapin (https://github.com/thoughtbot/cocaine)
 
