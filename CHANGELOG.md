@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.9.1
+  Replace Cocaine with Terrapin (https://github.com/thoughtbot/cocaine)
+
 ## 0.9.0
   Merging https://github.com/ruby-av/av/pull/5
 
