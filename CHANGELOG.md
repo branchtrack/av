@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.9.3
+  Update terrapin dependency version lock
+
 ## 0.9.2
   Update development dependencies
 
